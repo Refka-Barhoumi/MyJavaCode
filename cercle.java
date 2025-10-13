@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 public class cercle{
-    // Déclaration de l'attribut
+    // Déclaration des attributs
     final double pi=3.14;
     double rayon ;
     
