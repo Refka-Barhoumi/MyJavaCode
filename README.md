@@ -19,9 +19,8 @@ It’s mainly created for **learning purposes** and to **share my progress** in 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Language:** Java 17 or higher  
+- **Language:** Java 
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code  
-- **Build Tool:** Maven *(optional)*  
 
 ---
 
