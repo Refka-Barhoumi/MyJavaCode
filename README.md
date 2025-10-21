@@ -6,7 +6,7 @@ Each folder represents a different **TP session** or **set of exercises**.
 
 ---
 
-## 🧠 About This Repository
+## 📂 About This Repository
 This repo is a collection of my solutions for Java TPs, focusing on:
 - Basic syntax and logic in Java  
 - Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)  
