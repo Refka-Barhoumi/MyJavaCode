@@ -23,4 +23,11 @@ It’s mainly created for **learning purposes** and to **share my progress** in 
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code  
 
 ---
+---
+
+<p align="center">
+  👩‍🎓 <b>Written by:</b> Refka Barhoumi <br>
+  🎓 Student At Faculty of Science and Technology of Sidi Bouzid <br><br>
+  <i> Remember " Practice makes perfect ”</i> 💡
+</p>
 
