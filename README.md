@@ -21,10 +21,11 @@ It’s mainly created for **learning purposes** and to **share my progress** in 
 ## 🛠️ Tools & Technologies
 - **Language:** Java ☕
 - **IDE:**
-  - IntelliJ IDEA 💻
-  - Eclipse 🖥️
-  - VS Code 📝
-  - NetBeans 🟦  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="32" height="32"> IntelliJ IDEA
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="32" height="32"> Eclipse
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"> VS Code
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="32" height="32"> NetBeans
+
 ---
 ---
 
