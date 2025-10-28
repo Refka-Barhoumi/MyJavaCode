@@ -19,9 +19,12 @@ It’s mainly created for **learning purposes** and to **share my progress** in 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Language:** Java 
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code  
-
+- **Language:** Java ☕
+- **IDE:**
+  - IntelliJ IDEA 💻
+  - Eclipse 🖥️
+  - VS Code 📝
+  - NetBeans 🟦  
 ---
 ---
 
